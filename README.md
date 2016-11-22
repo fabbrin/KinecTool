@@ -1,10 +1,7 @@
 <img src="https://github.com/fabbrin/KinecTool/blob/master/images/fine.png" width="225" height="225">
 # KinecTool
-A repository of open kinect projects
-
 
 A repository of open kinect projects. **KinecTool** is the result of my work for the Human Computer Interaction course (University of Florence - Prof. A. D. Bagdanov)
-
 
 *Hand gesture based Human-Computer-Interaction (HCI) is one of the most natural and intuitive ways to communicate between people and machines. Compared to the entire human body, the hand is a smaller object with more complex articulations and more easily affected by segmentation errors. It is thus a very challenging problem to recognize hand gestures. In this project, i use Candescent NUI libraries for hands and fingers tracking and i use Kinect SDK for hand gestures. In conclusion propose two demos: one for the game rock paper scissors (RPS) to demonstrate the performance of Candescent NUI libraries in a real life application and other for the control of PowerPoint or PDF program using Kinect SDK.*
 
