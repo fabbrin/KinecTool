@@ -1,0 +1,118 @@
+﻿<Window x:Class="Kinect_PPT_PDF_Control.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kinect PPT/PDF Control"
+        Icon="./Images/Kinect.ico"
+        Height="480"
+        Width="640">
+
+    <Grid >
+        <TextBox Name="textBox1" IsReadOnly="True" Height="72" Margin="250,346,141,0" TextWrapping="Wrap" Text="&#xD;&#xA;Ready" VerticalAlignment="Top" TextChanged="TextBox_TextChanged" TextAlignment="Center" FontSize="22" Background="{x:Null}" BorderThickness="0" FontFamily="/Font/RobotoMedium.ttf#Roboto Medium"/>
+
+        <Border BorderThickness="1"
+            BorderBrush="Black"
+            VerticalAlignment="Top"
+            ClipToBounds="True" Width="250" Height="421" HorizontalAlignment="Left"/>
+        <TextBox Name="textBox2" IsReadOnly="True" Text="INSTRUCTION &#xA;&#xA;1) Check your application type&#xA;&#xA;&#xA;&#xA;&#xA;2) Set correct elevation angle&#xA;&#xA;&#xA;&#xA;3) Check to see gestures&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;4) Minimize/Hide App&#xA;&#xA;5) Ready to use!" HorizontalAlignment="Center" Height="419" TextWrapping="Wrap"  VerticalAlignment="Bottom" Width="250" TextChanged="TextBox_TextChanged_1" TextAlignment="Center" FontSize="16" Background="{x:Null}" BorderThickness="0" FontFamily="/Font/RobotoMedium.ttf#Roboto Medium" Margin="0,0,382,21" TextDecorations="{x:Null}"/>
+
+        <Button Name="btnCameraUp"
+            Background="Transparent"
+            BorderBrush="Transparent"
+            Click="BtnCameraUpClick"            
+            BorderThickness="0"
+            Width="48"
+            Height="48"
+            Padding="-4" HorizontalAlignment="Right" Margin="0,160,543,233">
+            <Image Source="./Images/add.png" Height="48" Width="48"/>
+        </Button>
+
+        <Button Name="btnCameraDown"
+            Background="Transparent"
+            BorderBrush="Transparent"
+            Click="BtnCameraDownClick"            
+            BorderThickness="0"
+            Width="48"
+            Height="48"
+            Padding="-4" HorizontalAlignment="Right" Margin="0,160,409,233">
+            <Image Source="./Images/minus.png" Height="48" Width="48"/>
+        </Button>
+
+        <TextBox Name="textBoxElevationAngle" IsReadOnly="True" Height="32" Margin="100,170,0,0" TextWrapping="Wrap" VerticalAlignment="Top" TextChanged="TextBox_TextChanged_txtElevationAngle" TextAlignment="Center" Text="0" FontSize="24" Background="{x:Null}" BorderThickness="0" FontFamily="/Font/RobotoMedium.ttf#Roboto Medium" HorizontalAlignment="Left" Width="48"/>
+
+        <Button Name="btn"
+            Background="Transparent"
+            BorderBrush="Transparent"
+            Click="btn_Click_PPT"        
+            BorderThickness="0"
+            Width="48"
+            Height="48"
+            Padding="-4" HorizontalAlignment="Right" Margin="0,70,513,324">
+            <Image Source="./Images/ppt_icon.png" Height="42" Width="42" Stretch="UniformToFill"/>
+        </Button>
+        <Button Name="btn1"
+            Background="Transparent"
+            BorderBrush="Transparent"
+            Click="btn_Click_PDF"        
+            BorderThickness="0"
+            Width="48"
+            Height="48"
+            Padding="-4" HorizontalAlignment="Right" Margin="0,70,437,324">
+            <Image Source="./Images/adobe.png" Height="50" Width="50" Stretch="UniformToFill"/>
+        </Button>
+
+
+        <TextBox Height="25" Name="txtInfo" VerticalAlignment="Bottom" IsReadOnly="True" FontSize="13.5" TextChanged="txtInfo_TextChanged" Background="{x:Null}" BorderThickness="2" FontFamily="/Font/RobotoMedium.ttf#Roboto Medium" FontStretch="Expanded" TextAlignment="Center" Text="Kinect PPT/PDF Control   E-mail: niccolo.fabbri@stud.unifi.it   Teacher: Prof. Andrew David Bagdanov" Margin="0,0,0,-3" >
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.147"/>
+                    <TranslateTransform X="-0.629" Y="1.046"/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Border BorderThickness="5"
+            BorderBrush="Black"
+            Margin="250,0,0,0"
+            VerticalAlignment="Top"
+            ClipToBounds="True" Height="349">
+            <Image Name="videoImage" Stretch="Fill" Width="370" Margin="0,0,0,0"/>
+        </Border>
+        <Canvas Background="Transparent" Margin="255,0,0,0" Height="344" VerticalAlignment="Top" HorizontalAlignment="Left" Width="377">
+            <Ellipse Fill="Red"
+                         Height="25"
+                         Width="25"
+                         Name="ellipseLeftHand"
+                         Stroke="White" Canvas.Top="6" Canvas.Left="1"/>
+            <Ellipse Fill="Red"
+                         Height="25"
+                         Width="25"
+                         Name="ellipseRightHand"
+                         Stroke="White" Canvas.Top="6" Canvas.Left="1" />
+            <Ellipse Fill="Red"
+                         Height="25"
+                         Width="25"
+                         Name="ellipseHead"
+                         Stroke="White" Canvas.Top="6" Canvas.Left="1" />
+        </Canvas>
+
+        <Image Source="./Images/Logo_Unifi.png" Margin="492,349,0,23"/>
+
+        <Button Name="btn2"
+        Background="Transparent"
+        BorderBrush="Black"
+        Click="btn2_Click"        
+        BorderThickness="1" 
+        Margin="0,246,465,126"
+        Padding="-4"  HorizontalAlignment="Right" Width="75">
+            <Image Source="./Images/gesture.png" Height="78" Width="74" HorizontalAlignment="Right" VerticalAlignment="Bottom" />
+        </Button>
+
+        <Popup x:Name="popup" StaysOpen="False" PlacementTarget="{Binding ElementName=btn2}" Height="371" Width="277" Margin="-210,0,0,0" VerticalOffset="40" HorizontalOffset="-365" HorizontalAlignment="Left">
+            <Border BorderBrush="Black" BorderThickness="2" Background="Transparent" Height="371" Width="277">
+                <Image Source="./Images/test1.png" Stretch="UniformToFill" Margin="0,0,0,0" >
+                </Image>
+            </Border>
+        </Popup>
+    </Grid>
+</Window>
