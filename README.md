@@ -7,8 +7,6 @@ A repository of open kinect projects. **KinecTool** is the result of my work for
 
 Link to the Final Report
 
-Link to the Demo Video
-
 ### Prerequisities
 
 - A [Microsoft Kinect Controller](http://www.xbox.com/en-US/xbox-360/accessories/kinect) - all projects are based on this device
