@@ -1,8 +1,9 @@
 # Kinect Rock Paper Scissors (RPS) The Game
 Niccolò Fabbri - Copyright © 2016
 
-*Ever thought about playing Rock-Paper-Scissors with your PC?
-Now you can do this by using Kinect RPS. The rule are rock breaks scissors, scissors cut paper and paper wraps rock. Kinect RPS can recognize your hand gesture and immediately show you its hand-sign randomly chooses. In according to the game rule, the system can decide the winner between human and computer....(unless it recognizes wrongly..Sometimes it does)*
+*Ever thought about playing Rock-Paper-Scissors with your PC?*
+
+*Now you can do this by using Kinect RPS. The rule are rock breaks scissors, scissors cut paper and paper wraps rock. Kinect RPS can recognize your hand gesture and immediately show you its hand-sign randomly chooses. In according to the game rule, the system can decide the winner between human and computer....(unless it recognizes wrongly..Sometimes it does)*
 
 # Requirements
 - Microsoft Kinect Xbox 360 device
