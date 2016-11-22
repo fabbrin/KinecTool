@@ -12,7 +12,7 @@ Link to the Demo Video
 ### Prerequisities
 
 - A [Microsoft Kinect Controller](http://www.xbox.com/en-US/xbox-360/accessories/kinect) - all projects are based on this device
-- [Candescent NUI](http://candescentnui.codeplex.com/) Library - hand and fingers tracking library
+- [Candescent NUI Library](http://candescentnui.codeplex.com/) - hand and fingers tracking library
 - [Microsoft Visual Studio](https://www.microsoft.com/it-it/download/details.aspx?id=30682) - development environment (IDE) from Microsoft
 - [Kinect SDK](https://www.microsoft.com/en-us/download/details.aspx?id=40278) - Microsoft skeleton tracking library
 - [OpenNI](http://openni.ru/openni-sdk/) - SDK used for the development of 3D sensing middleware libraries and applications 
