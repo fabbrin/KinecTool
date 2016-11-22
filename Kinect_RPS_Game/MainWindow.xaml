@@ -1,0 +1,64 @@
+﻿<Window x:Class="CCT.NUI.WPFSamples.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:uc="clr-namespace:CCT.NUI.Visual;assembly=CCT.NUI.Visual"
+        Title="Rock Paper Scissors - Kinect Game" Height="720" Width="960" Icon="./Images/Kinect.ico" IsManipulationEnabled="true" Closing="Window_Closing">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="937*"/>
+            <RowDefinition Height="57*"/>
+            <RowDefinition Height="0*"/>
+        </Grid.RowDefinitions>
+
+        <Border BorderThickness="3"
+        BorderBrush="Black"
+        Margin="3,1,533,224"
+        ClipToBounds="True">
+
+            <Image Name="imgGesture" Stretch="Fill" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,3,0,0" Height="410" Width="408">
+                <Image.Effect>
+                    <DropShadowEffect RenderingBias="Quality"/>
+                </Image.Effect>
+            </Image>
+        </Border>
+        <Image Name="versus" Stretch="Uniform" Source="./Images/VS.png" HorizontalAlignment="Center" Width="118" Height="97" Margin="416,186,418,367" />
+        <Image Name="cpu" Stretch="Uniform" HorizontalAlignment="Left" Width="129" Margin="146,428,0,110" />
+        <Image Name="man" Stretch="Uniform" HorizontalAlignment="Right" Width="129" Margin="0,428,146,110" />
+        <Image Name="imag" Stretch="Fill" Source="./Images/Logo_Unifi.png" HorizontalAlignment="Left" Width="180" Height="90" Margin="0,554,0,0" />
+        <uc:WpfVideoControl Name="videoControl" Stretch="None" Width="413" Height="417" HorizontalAlignment="Right" VerticalAlignment="Top" ClipToBounds="True" BorderBrush="Black" BorderThickness="3" Margin="0,1,3,0">
+            <uc:WpfVideoControl.Effect>
+                <DropShadowEffect RenderingBias="Quality"/>
+            </uc:WpfVideoControl.Effect>
+        </uc:WpfVideoControl>
+
+        <TextBox Height="42"  HorizontalAlignment="Left" Name="txtInfo" VerticalAlignment="Top" Width="960" IsReadOnly="True" FontSize="16" TextChanged="txtInfo_TextChanged" RenderTransformOrigin="0.5,0.5" Grid.Row="1" Margin="0,0,-28,0" Background="{x:Null}" BorderThickness="2" FontFamily="/Font/RobotoMedium.ttf#Roboto Medium" FontStretch="Expanded" TextAlignment="Center" Grid.RowSpan="2" >
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.147"/>
+                    <TranslateTransform X="-0.629122" Y="1.04589"/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+
+        <TextBox Name="textBox1" HorizontalAlignment="Center" Height="81" Margin="235,567,205,0" TextWrapping="Wrap" Text="&#xD;&#xA;Ready" VerticalAlignment="Top" Width="550" TextChanged="TextBox_TextChanged" TextAlignment="Center" FontSize="22" Background="{x:Null}" BorderThickness="0" IsReadOnly="True" FontFamily="/Font/RobotoMedium.ttf#Roboto Medium"/>
+        <Button Name="btn"
+        Background="Transparent"
+        BorderBrush="Transparent"
+        Click="btn_Click"        
+        BorderThickness="0" 
+        Margin="863,552,5,5"
+        Padding="-4" RenderTransformOrigin="-0.456,0.343">
+            <Image Source="./Images/NOTICE_3.png" Height="94" Width="143" HorizontalAlignment="Right" VerticalAlignment="Bottom" RenderTransformOrigin="0.365,0.505" />
+        </Button>
+
+        <Popup x:Name="popup" StaysOpen="False" PlacementTarget="{Binding ElementName=btn}" Placement="Bottom" HorizontalAlignment="Right" VerticalAlignment="Top" Height="500" Width="503">
+            <Border BorderBrush="Black" BorderThickness="2" Background="Transparent" Height="500" Width="503" Margin="0,0,0,0">
+                <TextBox x:Name="txtBox" IsReadOnly="True" Text="&#xA;INSTRUCTIONS&#xA;_________________________________________________________________________&#xA;&#xA;Ever thought about playing Rock-Paper-Scissors with your PC? &#xA;Now you can do this by using Kinect RPS.&#xD;&#xA;The rule are rock breaks scissors, scissors cut paper &#xD;&#xA;and paper wraps rock.&#xA;Kinect RPS can recognize your hand gesture and immediately&#xA;show you its hand-sign randomly chooses. &#xD;&#xA;In according to the game rule, the system can decide the winner&#xD;&#xA;between human and computer.&#xA;&#xA;(unless it recognizes wrongly..Sometimes it does)&#xA;&#xA;&#xA;NOTICE&#xA;_________________________________________________________________________&#xA;&#xA;- Separate your fingers when showing your gesture.&#xA;-  It'll be able to detect the fingers between 500- 800mm&#xA;-  Perfect distance for the tracking is around 650mm&#xA;- Position your hand flat to the viewing angle of the kinect" FontSize="16" Grid.RowSpan="3" TextChanged="focusTarger_TextChanged" TextAlignment="Center" FontWeight="Bold" Height="500" VerticalAlignment="Bottom" Margin="0,0,0,0"/>
+            </Border>
+        </Popup>
+
+
+    </Grid>
+</Window>
