@@ -16,7 +16,7 @@ Link to the Demo Video
 - A Microsoft Kinect Controller - all projects are based on this device
 - Candescent NUI Library - hand and fingers tracking library
 - Microsoft Visual Studio - development environment (IDE) from Microsoft
-- Kinect SDK - microsoft skeleton tracking library
+- Kinect SDK - Microsoft skeleton tracking library
 - OpenNI - SDK used for the development of 3D sensing middleware libraries and applications 
 
 ### Project structure
