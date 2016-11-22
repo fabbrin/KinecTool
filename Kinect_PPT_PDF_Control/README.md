@@ -7,19 +7,17 @@ Niccolò Fabbri - Copyright © 2016
 - Optional: Microsoft Office PowerPoint or Adobe PDF Reader
 
 # Usage
-- 1.	Compile [Kinect_PPT_PDF_Control](https://github.com/fabbrin/KinecTool/blob/master/Kinect_PPT_PDF_Control/Kinect_PPT_PDF_Control.sln) solution or run the [application] (bin/release/Kinect_PPT_PDF.exe) (https://github.com/fabbrin/KinecTool/blob/master/Kinect_PPT_PDF_Control/bin/Release/Kinect_PPT_PDF_Control.exe) 
-- 2.	Point the Kinect at you and stand at least five feet away 
-- 3.	You can see yourself in the application window and the three circles will track your head and hands. 
-- 4.	Extend your right arm to activate the "right" or "forward" gesture. Extend your left arm to active the "left" or "back" gesture.    These gestures will send a right or left arrow key to the foreground application, respectively. 
-- 5.	Run your PowerPoint show so PowerPoint is the foreground application, and the right and left gestures will go forward and back in your deck.
+- Compile [Kinect_PPT_PDF_Control](https://github.com/fabbrin/KinecTool/blob/master/Kinect_PPT_PDF_Control/Kinect_PPT_PDF_Control.sln) solution or run the application (bin/release/Kinect_PPT_PDF.exe)
+- Point the Kinect device at you and stand at least 1 meter away  
+- You can see yourself in the application window and the **three circles** will track your **head** and **hands** 
+- Move, as described inside system instructions, your arms to activate the gesture
+  - These gestures will send an arrow or control key to the foreground application
+- Run your **PowerPoint** or **PDF** presentation so is the foreground application.
 
-The ellipses grow and change color when your hand exceeds the threshold of 45 centimeters. The gestures will only activate once as your hand exceeds the threshold, and only one of the gestures can be active at once. You must bring your hand back closer to your body to activate the gesture a second time.
-
-The gestures will also work for any other application. For example, open Notepad and type some text then use the gestures to move the cursor left or right one character at a time.
-
+The **ellipses** grow and **change color** when your hand exceeds the threshold. The gestures will only activate once as your hand exceeds the threshold, and only one of the gestures can be active at once. You must bring your hand back closer to your body to activate the gesture a second time.
 
 # Limitations
-There is currently no way to activate embedded videos, so you should add a PowerPoint animation so the video starts when you push the right arrow key. 
+There is currently no way to activate embedded videos.
 
 # License
-The source code is made available under the MIT License. 
+The source code is made available under the [MIT](https://github.com/fabbrin/KinecTool/blob/master/LICENSE) License. 
