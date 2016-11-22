@@ -1,5 +1,3 @@
-![alt tag](https://github.com/fabbrin/KinecTool/blob/master/images/logo.png)
-
 # KinecTool
 A repository of open kinect projects
 
