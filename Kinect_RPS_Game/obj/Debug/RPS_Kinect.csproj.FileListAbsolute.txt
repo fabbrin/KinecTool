@@ -1,0 +1,68 @@
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\obj\Debug\MainWindow.baml
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\obj\Debug\MainWindow.g.cs
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\obj\Debug\App.g.cs
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\obj\Debug\RPS_Kinect_MarkupCompile.cache
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\obj\Debug\RPS_Kinect.g.resources
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\obj\Debug\RPS_Kinect.Properties.Resources.resources
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\obj\Debug\CCT.NUI.Samples.SettingsForm.resources
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\obj\Debug\RPS_Kinect.csproj.GenerateResource.Cache
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\bin\Debug\RPS_Kinect.exe
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\bin\Debug\RPS_Kinect.pdb
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\bin\Debug\CCT.NUI.Core.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\bin\Debug\CCT.NUI.HandTracking.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\bin\Debug\CCT.NUI.KinectSDK.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\bin\Debug\CCT.NUI.Visual.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\bin\Debug\OpenNI.net.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\obj\Debug\RPS_Kinect.exe
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\obj\Debug\RPS_Kinect.pdb
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\RPS_Kinect\bin\Debug\RPS_Kinect.exe
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\RPS_Kinect\bin\Debug\RPS_Kinect.pdb
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\RPS_Kinect\bin\Debug\CCT.NUI.Core.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\RPS_Kinect\bin\Debug\CCT.NUI.HandTracking.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\RPS_Kinect\bin\Debug\CCT.NUI.KinectSDK.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\RPS_Kinect\bin\Debug\CCT.NUI.Visual.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\RPS_Kinect\bin\Debug\OpenNI.net.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\RPS_Kinect\obj\Debug\MainWindow.baml
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\RPS_Kinect\obj\Debug\MainWindow.g.cs
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\RPS_Kinect\obj\Debug\App.g.cs
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\RPS_Kinect\obj\Debug\RPS_Kinect_MarkupCompile.cache
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\RPS_Kinect\obj\Debug\RPS_Kinect.g.resources
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\RPS_Kinect\obj\Debug\RPS_Kinect.Properties.Resources.resources
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\RPS_Kinect\obj\Debug\CCT.NUI.Samples.SettingsForm.resources
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\RPS_Kinect\obj\Debug\RPS_Kinect.csproj.GenerateResource.Cache
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\RPS_Kinect\obj\Debug\RPS_Kinect.exe
+C:\Users\Niccolò Fabbri\Desktop\test_refactory\RPS_Kinect\obj\Debug\RPS_Kinect.pdb
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\Debug\RPS_Kinect.exe
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\Debug\RPS_Kinect.pdb
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\Debug\RPS_Kinect.csprojResolveAssemblyReference.cache
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\Debug\App.g.cs
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\Debug\RPS_Kinect_MarkupCompile.cache
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\Debug\RPS_Kinect.exe
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\Debug\RPS_Kinect.pdb
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\Debug\CCT.NUI.Core.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\Debug\CCT.NUI.HandTracking.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\Debug\CCT.NUI.KinectSDK.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\Debug\CCT.NUI.Visual.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\Debug\OpenNI.net.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\Debug\MainWindow.baml
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\Debug\MainWindow.g.cs
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\Debug\RPS_Kinect.g.resources
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\Debug\RPS_Kinect.Properties.Resources.resources
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\Debug\RPS_Kinect.csproj.GenerateResource.Cache
+C:\RPS_Kinect\RPS_Kinect\obj\Debug\RPS_Kinect.exe
+C:\RPS_Kinect\RPS_Kinect\obj\Debug\RPS_Kinect.pdb
+C:\RPS_Kinect\RPS_Kinect\bin\Debug\RPS_Kinect.exe
+C:\RPS_Kinect\RPS_Kinect\bin\Debug\RPS_Kinect.pdb
+C:\RPS_Kinect\RPS_Kinect\bin\Debug\CCT.NUI.Core.dll
+C:\RPS_Kinect\RPS_Kinect\bin\Debug\CCT.NUI.HandTracking.dll
+C:\RPS_Kinect\RPS_Kinect\bin\Debug\CCT.NUI.KinectSDK.dll
+C:\RPS_Kinect\RPS_Kinect\bin\Debug\CCT.NUI.Visual.dll
+C:\RPS_Kinect\RPS_Kinect\bin\Debug\OpenNI.net.dll
+C:\RPS_Kinect\RPS_Kinect\obj\Debug\RPS_Kinect.csprojResolveAssemblyReference.cache
+C:\RPS_Kinect\RPS_Kinect\obj\Debug\MainWindow.baml
+C:\RPS_Kinect\RPS_Kinect\obj\Debug\MainWindow.g.cs
+C:\RPS_Kinect\RPS_Kinect\obj\Debug\App.g.cs
+C:\RPS_Kinect\RPS_Kinect\obj\Debug\RPS_Kinect_MarkupCompile.cache
+C:\RPS_Kinect\RPS_Kinect\obj\Debug\RPS_Kinect.g.resources
+C:\RPS_Kinect\RPS_Kinect\obj\Debug\RPS_Kinect.Properties.Resources.resources
+C:\RPS_Kinect\RPS_Kinect\obj\Debug\RPS_Kinect.csproj.GenerateResource.Cache

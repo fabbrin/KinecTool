@@ -1,0 +1,67 @@
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\x64\Debug\RPS_Kinect.exe
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\x64\Debug\RPS_Kinect.pdb
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\x64\Debug\CCT.NUI.Core.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\x64\Debug\CCT.NUI.HandTracking.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\x64\Debug\CCT.NUI.KinectSDK.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\x64\Debug\CCT.NUI.Visual.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\x64\Debug\OpenNI.net.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\x64\Debug\MainWindow.baml
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\x64\Debug\App.g.cs
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\x64\Debug\RPS_Kinect_MarkupCompile.cache
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\x64\Debug\RPS_Kinect.g.resources
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\x64\Debug\RPS_Kinect.Properties.Resources.resources
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\x64\Debug\RPS_Kinect.csproj.GenerateResource.Cache
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\x64\Debug\RPS_Kinect.exe
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\x64\Debug\RPS_Kinect.pdb
+C:\RPS_Kinect\RPS_Kinect\obj\x64\Debug\RPS_Kinect.exe
+C:\RPS_Kinect\RPS_Kinect\obj\x64\Debug\RPS_Kinect.pdb
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Debug\RPS_Kinect.exe
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Debug\RPS_Kinect.pdb
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Debug\CCT.NUI.Core.dll
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Debug\CCT.NUI.HandTracking.dll
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Debug\CCT.NUI.KinectSDK.dll
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Debug\CCT.NUI.Visual.dll
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Debug\OpenNI.net.dll
+C:\RPS_Kinect\RPS_Kinect\obj\x64\Debug\MainWindow.baml
+C:\RPS_Kinect\RPS_Kinect\obj\x64\Debug\MainWindow.g.cs
+C:\RPS_Kinect\RPS_Kinect\obj\x64\Debug\App.g.cs
+C:\RPS_Kinect\RPS_Kinect\obj\x64\Debug\RPS_Kinect_MarkupCompile.cache
+C:\RPS_Kinect\RPS_Kinect\obj\x64\Debug\RPS_Kinect.g.resources
+C:\RPS_Kinect\RPS_Kinect\obj\x64\Debug\RPS_Kinect.Properties.Resources.resources
+C:\RPS_Kinect\RPS_Kinect\obj\x64\Debug\RPS_Kinect.csproj.GenerateResource.Cache
+C:\RPS_Game\RPS_Kinect\obj\x64\Debug\RPS_Kinect.exe
+C:\RPS_Game\RPS_Kinect\obj\x64\Debug\RPS_Kinect.pdb
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\Font\Roboto-Black.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\Font\Roboto-BlackItalic.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\Font\Roboto-Bold.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\Font\Roboto-BoldCondensed.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\Font\Roboto-BoldCondensedItalic.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\Font\Roboto-BoldItalic.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\Font\Roboto-Condensed.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\Font\Roboto-CondensedItalic.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\Font\Roboto-Italic.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\Font\Roboto-Light.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\Font\Roboto-LightItalic.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\Font\RobotoMedium.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\Font\Roboto-MediumItalic.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\Font\RobotoRegular.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\Font\Roboto-Thin.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\Font\Roboto-ThinItalic.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\RPS_Kinect.exe
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\RPS_Kinect.pdb
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\CCT.NUI.Core.dll
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\CCT.NUI.HandTracking.dll
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\CCT.NUI.KinectSDK.dll
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\CCT.NUI.Visual.dll
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\Microsoft.Kinect.dll
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\OpenNI.net.dll
+C:\RPS_Game\RPS_Kinect\bin\x64\Debug\Microsoft.Kinect.xml
+C:\RPS_Game\RPS_Kinect\obj\x64\Debug\MainWindow.baml
+C:\RPS_Game\RPS_Kinect\obj\x64\Debug\MainWindow.g.cs
+C:\RPS_Game\RPS_Kinect\obj\x64\Debug\App.g.cs
+C:\RPS_Game\RPS_Kinect\obj\x64\Debug\RPS_Kinect_Content.g.cs
+C:\RPS_Game\RPS_Kinect\obj\x64\Debug\RPS_Kinect_MarkupCompile.cache
+C:\RPS_Game\RPS_Kinect\obj\x64\Debug\RPS_Kinect.g.resources
+C:\RPS_Game\RPS_Kinect\obj\x64\Debug\RPS_Kinect.Properties.Resources.resources
+C:\RPS_Game\RPS_Kinect\obj\x64\Debug\RPS_Kinect.csproj.GenerateResource.Cache

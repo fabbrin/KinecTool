@@ -1,0 +1,237 @@
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\x64\Release\RPS_Kinect.exe
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\x64\Release\RPS_Kinect.pdb
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\x64\Release\CCT.NUI.Core.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\x64\Release\CCT.NUI.HandTracking.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\x64\Release\CCT.NUI.KinectSDK.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\x64\Release\CCT.NUI.Visual.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\bin\x64\Release\OpenNI.net.dll
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\x64\Release\MainWindow.baml
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\x64\Release\MainWindow.g.cs
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\x64\Release\App.g.cs
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\x64\Release\RPS_Kinect_MarkupCompile.cache
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\x64\Release\RPS_Kinect.g.resources
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\x64\Release\RPS_Kinect.Properties.Resources.resources
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\x64\Release\RPS_Kinect.csproj.GenerateResource.Cache
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\x64\Release\RPS_Kinect.exe
+C:\Users\Niccolò Fabbri\Desktop\test_refactory - Copia\RPS_Kinect\obj\x64\Release\RPS_Kinect.pdb
+C:\Users\Niccolò Fabbri\Desktop\RPS_NUI\obj\x64\Release\RPS_Kinect.exe
+C:\Users\Niccolò Fabbri\Desktop\RPS_NUI\obj\x64\Release\RPS_Kinect.pdb
+C:\Users\Niccolò Fabbri\Desktop\RPS_NUI\bin\x64\Release\RPS_Kinect.exe
+C:\Users\Niccolò Fabbri\Desktop\RPS_NUI\bin\x64\Release\RPS_Kinect.pdb
+C:\Users\Niccolò Fabbri\Desktop\RPS_NUI\bin\x64\Release\CCT.NUI.Core.dll
+C:\Users\Niccolò Fabbri\Desktop\RPS_NUI\bin\x64\Release\CCT.NUI.HandTracking.dll
+C:\Users\Niccolò Fabbri\Desktop\RPS_NUI\bin\x64\Release\CCT.NUI.KinectSDK.dll
+C:\Users\Niccolò Fabbri\Desktop\RPS_NUI\bin\x64\Release\CCT.NUI.Visual.dll
+C:\Users\Niccolò Fabbri\Desktop\RPS_NUI\bin\x64\Release\OpenNI.net.dll
+C:\Users\Niccolò Fabbri\Desktop\RPS_NUI\obj\x64\Release\RPS_Kinect.csprojResolveAssemblyReference.cache
+C:\Users\Niccolò Fabbri\Desktop\RPS_NUI\obj\x64\Release\MainWindow.baml
+C:\Users\Niccolò Fabbri\Desktop\RPS_NUI\obj\x64\Release\MainWindow.g.cs
+C:\Users\Niccolò Fabbri\Desktop\RPS_NUI\obj\x64\Release\App.g.cs
+C:\Users\Niccolò Fabbri\Desktop\RPS_NUI\obj\x64\Release\RPS_Kinect_MarkupCompile.cache
+C:\Users\Niccolò Fabbri\Desktop\RPS_NUI\obj\x64\Release\RPS_Kinect.g.resources
+C:\Users\Niccolò Fabbri\Desktop\RPS_NUI\obj\x64\Release\RPS_Kinect.Properties.Resources.resources
+C:\Users\Niccolò Fabbri\Desktop\RPS_NUI\obj\x64\Release\RPS_Kinect.csproj.GenerateResource.Cache
+C:\RPS_Kinect\obj\x64\Release\RPS_Kinect.exe
+C:\RPS_Kinect\obj\x64\Release\RPS_Kinect.pdb
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\Font\Roboto-Black.ttf
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\Font\Roboto-BlackItalic.ttf
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\Font\Roboto-Bold.ttf
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\Font\Roboto-BoldCondensed.ttf
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\Font\Roboto-BoldCondensedItalic.ttf
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\Font\Roboto-BoldItalic.ttf
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\Font\Roboto-Condensed.ttf
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\Font\Roboto-CondensedItalic.ttf
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\Font\Roboto-Italic.ttf
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\Font\Roboto-Light.ttf
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\Font\Roboto-LightItalic.ttf
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\Font\RobotoMedium.ttf
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\Font\Roboto-MediumItalic.ttf
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\Font\RobotoRegular.ttf
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\Font\Roboto-Thin.ttf
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\Font\Roboto-ThinItalic.ttf
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\RPS_Kinect.exe
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\RPS_Kinect.pdb
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\CCT.NUI.Core.dll
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\CCT.NUI.HandTracking.dll
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\CCT.NUI.KinectSDK.dll
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\CCT.NUI.Visual.dll
+C:\RPS_Kinect\RPS_Kinect\bin\x64\Release\OpenNI.net.dll
+C:\RPS_Kinect\RPS_Kinect\obj\x64\Release\RPS_Kinect.csprojResolveAssemblyReference.cache
+C:\RPS_Kinect\RPS_Kinect\obj\x64\Release\MainWindow.baml
+C:\RPS_Kinect\RPS_Kinect\obj\x64\Release\MainWindow.g.cs
+C:\RPS_Kinect\RPS_Kinect\obj\x64\Release\App.g.cs
+C:\RPS_Kinect\RPS_Kinect\obj\x64\Release\RPS_Kinect_Content.g.cs
+C:\RPS_Kinect\RPS_Kinect\obj\x64\Release\RPS_Kinect_MarkupCompile.cache
+C:\RPS_Kinect\RPS_Kinect\obj\x64\Release\RPS_Kinect.g.resources
+C:\RPS_Kinect\RPS_Kinect\obj\x64\Release\RPS_Kinect.Properties.Resources.resources
+C:\RPS_Kinect\RPS_Kinect\obj\x64\Release\RPS_Kinect.csproj.GenerateResource.Cache
+C:\RPS_Kinect\RPS_Kinect\obj\x64\Release\RPS_Kinect.exe
+C:\RPS_Kinect\RPS_Kinect\obj\x64\Release\RPS_Kinect.pdb
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\Font\Roboto-Black.ttf
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\Font\Roboto-BlackItalic.ttf
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\Font\Roboto-Bold.ttf
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\Font\Roboto-BoldCondensed.ttf
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\Font\Roboto-BoldCondensedItalic.ttf
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\Font\Roboto-BoldItalic.ttf
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\Font\Roboto-Condensed.ttf
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\Font\Roboto-CondensedItalic.ttf
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\Font\Roboto-Italic.ttf
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\Font\Roboto-Light.ttf
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\Font\Roboto-LightItalic.ttf
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\Font\RobotoMedium.ttf
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\Font\Roboto-MediumItalic.ttf
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\Font\RobotoRegular.ttf
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\Font\Roboto-Thin.ttf
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\Font\Roboto-ThinItalic.ttf
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\RPS_Kinect.exe
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\RPS_Kinect.pdb
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\CCT.NUI.Core.dll
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\CCT.NUI.HandTracking.dll
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\CCT.NUI.KinectSDK.dll
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\CCT.NUI.Visual.dll
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\bin\x64\Release\OpenNI.net.dll
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\obj\x64\Release\MainWindow.baml
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\obj\x64\Release\MainWindow.g.cs
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\obj\x64\Release\App.g.cs
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\obj\x64\Release\RPS_Kinect_Content.g.cs
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\obj\x64\Release\RPS_Kinect_MarkupCompile.cache
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\obj\x64\Release\RPS_Kinect.g.resources
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\obj\x64\Release\RPS_Kinect.Properties.Resources.resources
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\obj\x64\Release\RPS_Kinect.csproj.GenerateResource.Cache
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\obj\x64\Release\RPS_Kinect.exe
+C:\Users\Niccolò Fabbri\Desktop\Nuova cartella (2)\RPS_Kinect\obj\x64\Release\RPS_Kinect.pdb
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-Black.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-BlackItalic.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-Bold.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-BoldCondensed.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-BoldCondensedItalic.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-BoldItalic.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-Condensed.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-CondensedItalic.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-Italic.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-Light.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-LightItalic.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\Font\RobotoMedium.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-MediumItalic.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\Font\RobotoRegular.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-Thin.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-ThinItalic.ttf
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\RPS_Kinect.exe
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\RPS_Kinect.pdb
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\CCT.NUI.Core.dll
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\CCT.NUI.HandTracking.dll
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\CCT.NUI.KinectSDK.dll
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\CCT.NUI.Visual.dll
+C:\RPS_Game\RPS_Kinect\bin\x64\Release\OpenNI.net.dll
+C:\RPS_Game\RPS_Kinect\obj\x64\Release\RPS_Kinect.csprojResolveAssemblyReference.cache
+C:\RPS_Game\RPS_Kinect\obj\x64\Release\MainWindow.baml
+C:\RPS_Game\RPS_Kinect\obj\x64\Release\MainWindow.g.cs
+C:\RPS_Game\RPS_Kinect\obj\x64\Release\App.g.cs
+C:\RPS_Game\RPS_Kinect\obj\x64\Release\RPS_Kinect_Content.g.cs
+C:\RPS_Game\RPS_Kinect\obj\x64\Release\RPS_Kinect_MarkupCompile.cache
+C:\RPS_Game\RPS_Kinect\obj\x64\Release\RPS_Kinect.g.resources
+C:\RPS_Game\RPS_Kinect\obj\x64\Release\RPS_Kinect.Properties.Resources.resources
+C:\RPS_Game\RPS_Kinect\obj\x64\Release\RPS_Kinect.csproj.GenerateResource.Cache
+C:\RPS_Game\RPS_Kinect\obj\x64\Release\RPS_Kinect.exe
+C:\RPS_Game\RPS_Kinect\obj\x64\Release\RPS_Kinect.pdb
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\obj\x64\Release\RPS_Kinect.exe
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\obj\x64\Release\RPS_Kinect.pdb
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-Black.ttf
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-BlackItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-Bold.ttf
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-BoldCondensed.ttf
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-BoldCondensedItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-BoldItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-Condensed.ttf
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-CondensedItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-Italic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-Light.ttf
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-LightItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\Font\RobotoMedium.ttf
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-MediumItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\Font\RobotoRegular.ttf
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-Thin.ttf
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\Font\Roboto-ThinItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\RPS_Kinect.exe
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\RPS_Kinect.pdb
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\CCT.NUI.Core.dll
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\CCT.NUI.HandTracking.dll
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\CCT.NUI.KinectSDK.dll
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\CCT.NUI.Visual.dll
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\bin\x64\Release\OpenNI.net.dll
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\obj\x64\Release\RPS_Kinect.csprojResolveAssemblyReference.cache
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\obj\x64\Release\MainWindow.baml
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\obj\x64\Release\MainWindow.g.cs
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\obj\x64\Release\App.g.cs
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\obj\x64\Release\RPS_Kinect_Content.g.cs
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\obj\x64\Release\RPS_Kinect_MarkupCompile.cache
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\obj\x64\Release\RPS_Kinect.g.resources
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\obj\x64\Release\RPS_Kinect.Properties.Resources.resources
+C:\Users\Niccolo\Desktop\RPS_Game\RPS_Kinect\obj\x64\Release\RPS_Kinect.csproj.GenerateResource.Cache
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\Font\Roboto-Black.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\Font\Roboto-BlackItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\Font\Roboto-Bold.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\Font\Roboto-BoldCondensed.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\Font\Roboto-BoldCondensedItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\Font\Roboto-BoldItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\Font\Roboto-Condensed.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\Font\Roboto-CondensedItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\Font\Roboto-Italic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\Font\Roboto-Light.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\Font\Roboto-LightItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\Font\RobotoMedium.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\Font\Roboto-MediumItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\Font\RobotoRegular.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\Font\Roboto-Thin.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\Font\Roboto-ThinItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\RPS_Kinect.exe
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\RPS_Kinect.pdb
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\CCT.NUI.Core.dll
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\CCT.NUI.HandTracking.dll
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\CCT.NUI.KinectSDK.dll
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\CCT.NUI.Visual.dll
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\bin\x64\Release\OpenNI.net.dll
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\obj\x64\Release\MainWindow.baml
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\obj\x64\Release\MainWindow.g.cs
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\obj\x64\Release\App.g.cs
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\obj\x64\Release\RPS_Kinect_Content.g.cs
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\obj\x64\Release\RPS_Kinect_MarkupCompile.cache
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\obj\x64\Release\RPS_Kinect.g.resources
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\obj\x64\Release\RPS_Kinect.Properties.Resources.resources
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\obj\x64\Release\RPS_Kinect.csproj.GenerateResource.Cache
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\obj\x64\Release\RPS_Kinect.exe
+C:\Users\Niccolo\Desktop\RPS_Game_V2\RPS_Kinect\obj\x64\Release\RPS_Kinect.pdb
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\Font\Roboto-Black.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\Font\Roboto-BlackItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\Font\Roboto-Bold.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\Font\Roboto-BoldCondensed.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\Font\Roboto-BoldCondensedItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\Font\Roboto-BoldItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\Font\Roboto-Condensed.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\Font\Roboto-CondensedItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\Font\Roboto-Italic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\Font\Roboto-Light.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\Font\Roboto-LightItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\Font\RobotoMedium.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\Font\Roboto-MediumItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\Font\RobotoRegular.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\Font\Roboto-Thin.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\Font\Roboto-ThinItalic.ttf
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\RPS_Kinect.exe
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\RPS_Kinect.pdb
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\CCT.NUI.Core.dll
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\CCT.NUI.HandTracking.dll
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\CCT.NUI.KinectSDK.dll
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\CCT.NUI.Visual.dll
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\bin\x64\Release\OpenNI.net.dll
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\obj\x64\Release\RPS_Kinect.csprojResolveAssemblyReference.cache
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\obj\x64\Release\MainWindow.baml
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\obj\x64\Release\MainWindow.g.cs
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\obj\x64\Release\App.g.cs
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\obj\x64\Release\RPS_Kinect_Content.g.cs
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\obj\x64\Release\RPS_Kinect_MarkupCompile.cache
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\obj\x64\Release\RPS_Kinect.g.resources
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\obj\x64\Release\RPS_Kinect.Properties.Resources.resources
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\obj\x64\Release\RPS_Kinect.csproj.GenerateResource.Cache
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\obj\x64\Release\RPS_Kinect.exe
+C:\Users\Niccolo\Desktop\RPS_Game_V2.1\RPS_Kinect\obj\x64\Release\RPS_Kinect.pdb
