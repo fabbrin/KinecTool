@@ -19,12 +19,10 @@ Link to the Demo Video
 
 ### Project structure
 
-bin: contains binaries and instruction
-UsabilityTest: contains the little website used for the timed test and the usability questionnaire
-ClickGestureTrainer: sources of the training set recorder for the click gesture (left and right)
-Controller: sources of the main application (AirMouse)
-MergeTrainingSet sources of the training sets merger
-StaticGesturesTrainer: sources of the training set recorder for the hand poses
+- **Kinect_PPT_PDF_Control**: contains binaries and instruction for Kinect PPT/PDF Control
+- **Kinect_RPS_Game**: contains binaries and instruction for Rock Paper Scissors The Game (beta version)
+- **UsabilityTest**: contains the usability questionnaire
+- **Report-Project**: contains final report and final presentation of my work
 
 ### Authors
 
