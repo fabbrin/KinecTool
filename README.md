@@ -1,3 +1,4 @@
+<img src="https://github.com/fabbrin/KinecTool/blob/master/images/fine.png" width="225" height="225">
 # KinecTool
 A repository of open kinect projects
 
