@@ -31,9 +31,9 @@ StaticGesturesTrainer: sources of the training set recorder for the hand poses
 
 ### Authors
 
-Student: Niccolò Fabbri
+Student: **Niccolò Fabbri**
 
-Supervisor: Andrew David Bagdanov
+Supervisor: **Andrew David Bagdanov**
 
 ### License
 
