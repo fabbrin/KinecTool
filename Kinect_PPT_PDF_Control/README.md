@@ -4,6 +4,7 @@ Niccolò Fabbri - Copyright © 2016
 # Requirements
 - Microsoft Kinect Xbox 360 device
 - Kinect for Windows SDK v1.8
+- Microsoft Visual Studio 2012 or later
 - Optional: Microsoft Office PowerPoint or Adobe PDF Reader
 
 # Usage
