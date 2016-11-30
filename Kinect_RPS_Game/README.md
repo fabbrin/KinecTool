@@ -8,11 +8,12 @@ Niccolò Fabbri - Copyright © 2016
 # Requirements
 - Microsoft Kinect Xbox 360 device
 - Kinect for Windows SDK v1.8
+- Microsoft Visual Studio 2012 or later
 - Candescent NUI library
 - OpenNI library
 
 # Usage
-- Compile [RPS_Kinect](https://github.com/fabbrin/KinecTool/blob/master/Kinect_RPS_Game/RPS_Kinect.sln) solution or run the application (bin/x64/Release/RPS_Kinect.exe)
+- Compile [RPS_Kinect](https://github.com/fabbrin/KinecTool/blob/master/Kinect_RPS_Game/RPS_Kinect.csproj) solution or run the application (bin/x64/Release/RPS_Kinect.exe)
 - Position the Kinect device between 0.5 - 1 meter (perfect distance is **65 cm**)  
 - Position your hand flat to the viewing angle of the kinect (separate well your fingers when showing your gesture)
 - Ready to game (follow the instruction on the screen)
